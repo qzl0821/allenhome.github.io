@@ -100,5 +100,6 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/qzl0821/allenhome.github.io.git
-  branch:  public
+  branch:  master
+  
   
